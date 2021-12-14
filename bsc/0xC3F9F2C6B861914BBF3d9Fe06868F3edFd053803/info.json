@@ -1,0 +1,11 @@
+{ 
+"name": "SpaceX Doge",
+"website": "http://spacexdoge.online/",
+"description": "Space X will take our Doge to the moon! SpaceXDoge is the most independent meme coin for Doge lovers. Developing an ecosystem of services backed by a top-notch cryptocurrency that belongs not only to a few but, to all the investors involved by introducing revenue by Staking and Yield Farming!.",
+"explorer": "https://bscscan.com/token/0xc3f9f2c6b861914bbf3d9fe06868f3edfd053803",
+"type": "BEP20",
+"symbol": "SXDoge",
+"decimals": 6,
+"status": "active",
+"id": "0xC3F9F2C6B861914BBF3d9Fe06868F3edFd053803"
+}
